@@ -1,0 +1,20 @@
+Hello developers / students
+
+This script need purchase code verification while installing. This is not nulled code, but i can guide you how to crack its purchase code verification.
+
+1) First of all go to this file: 
+
+laravelecommerce-1022/codecanyon-22334657-laravel-ecommerce-universal-ecommerce
+store-full-website-with-themes-and-advanced-cmsadmin-panel/SourceCode/adminpane
+l/vendor/vectorcoder/laravel-installer/src/Controllers/EnvironmentControllers.p
+hp
+
+2) Go to line number 166, you will find this code: $purchase_code = $request->purchase_code;
+
+Delete this code from line number 166 -182 & Save it
+
+3) Now go to install it and keep anything in purchase code section while installing.
+
+4) While installing for first time it shows database error. but dont cancel it. again install it from same place.
+
+Now you have successfully cracked  it.
